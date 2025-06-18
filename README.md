@@ -5,7 +5,7 @@ No tokens. No bets. No rewards. Just pure fun and fair racing on the blockchain.
  
 --- 
  
-## 🚀 Overview
+## 🚀 Overview  
 
 - ❄️ Race on an onchain frozen track
 - 🧊 Up to any number of players per race  
