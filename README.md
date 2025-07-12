@@ -3,7 +3,7 @@
 Skating Race is a fully onchain multiplayer ice skating game built with Solidity.    
 No tokens. No bets. No rewards. Just pure fun and fair racing on the blockchain.   
   
---- 
+---  
  
 ## 🚀 Overview  
 
