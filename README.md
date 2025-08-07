@@ -22,7 +22,7 @@ No tokens. No bets. No rewards. Just pure fun and fair racing on the blockchain.
 4. **Players** call `skate()` to move forward one step per transaction.
 5. The first to reach the finish line is recorded as the winner.
  
-No central control — everything is verifiable and fair onchain.
+No central control — everything is verifiable and fair onchain. 
 
 ---
 
