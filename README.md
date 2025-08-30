@@ -25,7 +25,7 @@ No tokens. No bets. No rewards. Just pure fun and fair racing on the blockchain.
 No central control — everything is verifiable and fair onchain.  
  
 ---
-
+ 
 ## 🔧 Deployment
 
 You can deploy the contract using [Remix](https://remix.ethereum.org/) or via scripts using Hardhat or Foundry.
