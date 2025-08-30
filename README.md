@@ -23,7 +23,7 @@ No tokens. No bets. No rewards. Just pure fun and fair racing on the blockchain.
 5. The first to reach the finish line is recorded as the winner. 
    
 No central control — everything is verifiable and fair onchain.  
-
+ 
 ---
 
 ## 🔧 Deployment
