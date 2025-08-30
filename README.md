@@ -27,7 +27,7 @@ No central control — everything is verifiable and fair onchain.
 --- 
  
 ## 🔧 Deployment 
-
+ 
 You can deploy the contract using [Remix](https://remix.ethereum.org/) or via scripts using Hardhat or Foundry.
 
 ### 🧪 Example with Remix
