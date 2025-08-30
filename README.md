@@ -14,7 +14,7 @@ No tokens. No bets. No rewards. Just pure fun and fair racing on the blockchain.
      
 ---  
    
-## 🛠️ How It Works 
+## 🛠️ How It Works  
 
 1. **Owner** creates a new race. 
 2. **Players** join before the race starts.
