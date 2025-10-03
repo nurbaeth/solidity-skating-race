@@ -16,7 +16,7 @@ No tokens. No bets. No rewards. Just pure fun and fair racing on the blockchain.
     
 ## 🛠️ How It Works  
  
-1. **Owner** creates a new race.  
+1. **Owner** creates a new race.   
 2. **Players** join before the race starts. 
 3. **Owner** starts the race.    
 4. **Players** call `skate()` to move forward one step per transaction.  
