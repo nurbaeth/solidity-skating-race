@@ -13,7 +13,7 @@ No tokens. No bets. No rewards. Just pure fun and fair racing on the blockchain.
 - ⚡ First one to reach the end wins    
      
 ---   
-   
+    
 ## 🛠️ How It Works  
  
 1. **Owner** creates a new race.  
