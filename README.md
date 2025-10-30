@@ -12,7 +12,7 @@ No tokens. No bets. No rewards. Just pure fun and fair racing on the blockchain.
 - 🛷 Each player skates step by step until finish line  
 - ⚡ First one to reach the end wins     
      
----   
+---    
     
 ## 🛠️ How It Works  
  
